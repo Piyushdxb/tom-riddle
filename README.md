@@ -31,7 +31,7 @@ This project is a zero-dependency, single-file HTML5 web application optimized f
 To get the best experience without Safari URL bars or browser buttons cluttering the screen:
 
 1. Visit the live GitHub Pages URL for this repository in **Safari on your iPad**:
-   `https://<your-username>.github.io/<your-repo-name>/`
+   `(https://piyushdxb.github.io/tom-riddle/)`
 2. Tap the **Share button** (the square with the upward arrow) in the Safari toolbar.
 3. Scroll down and select **Add to Home Screen**.
 4. Name it **The Diary** and tap **Add**.
